@@ -108,7 +108,7 @@ const ContactSection = () => {
 
           <div className="pt-8">
             <a 
-              href="https://wa.me/917357058097?text=Hi%20CS%20Dev%20Studio,%20I%20have%20a%20project%20in%20mind!" 
+              href="https://wa.me/919992532809?text=Hi%20CS%20Dev%20Studio,%20I%20have%20a%20project%20in%20mind!" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex bg-[#25D366] hover:bg-[#20b858] text-white px-6 py-3 rounded-full font-bold transition-all shadow-[0_0_15px_rgba(37,211,102,0.3)] items-center gap-2"
