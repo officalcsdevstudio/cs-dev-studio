@@ -46,9 +46,9 @@ const ContactSection = () => {
     setIsSending(true);
     setStatusMessage({ type: '', text: '' });
 
-    const serviceID = 'YOUR_SERVICE_ID'; 
-    const templateID = 'YOUR_TEMPLATE_ID';
-    const publicKey = 'YOUR_PUBLIC_KEY';
+    const serviceID = 'service_cb8h7xq'; 
+    const templateID = 'template_no5gmvj';
+    const publicKey = 'M2IePxW6Zfwe4_LAS';
 
     const templateParams = {
       from_name: formData.name,
@@ -91,7 +91,7 @@ const ContactSection = () => {
             </div>
             <div>
               <p className="text-sm text-gray-500">Email Us</p>
-              <p className="font-medium">aapka-email@gmail.com</p>
+              <p className="font-medium">offical.csdevstudio.@gmail.com</p>
             </div>
           </div>
 
@@ -101,13 +101,13 @@ const ContactSection = () => {
             </div>
             <div>
               <p className="text-sm text-gray-500">Location</p>
-              <p className="font-medium">Fatehabad, Haryana (India)</p>
+              <p className="font-medium">Haryana (India)</p>
             </div>
           </div>
 
           <div className="pt-8">
             <a 
-              href="https://wa.me/919876543210?text=Hi%20CS%20Dev%20Studio,%20I%20have%20a%20project%20in%20mind!" 
+              href="https://wa.me/917357058097?text=Hi%20CS%20Dev%20Studio,%20I%20have%20a%20project%20in%20mind!" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex bg-[#25D366] hover:bg-[#20b858] text-white px-6 py-3 rounded-full font-bold transition-all shadow-[0_0_15px_rgba(37,211,102,0.3)] items-center gap-2"
